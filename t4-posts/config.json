@@ -5,7 +5,7 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Tamara Vaughan"
   },
   "text": {
     "more": "A network visualization of the similarity of ideas (as measured by the cosine similarity of the TF-IDF scores for each post). Groups are clusters of posts that have similar patterns of similar scores. By Tamara Vaughan, ETEC 565C Fall 2020 UBC.",
@@ -13,9 +13,9 @@
     "title": ""
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Similarity",
+    "colorLabel": "Module",
+    "nodeLabel": "Posts"
   },
   "features": {
     "search": true,
