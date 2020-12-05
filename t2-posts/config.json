@@ -10,7 +10,7 @@
   "text": {
     "more": "A network visualization of the similarity of ideas (as measured by the cosine similarity of the TF-IDF scores for each post). Groups are clusters of posts that have similar patterns of similar scores. By Tamara Vaughan, ETEC 565C Fall 2020 UBC.",
     "intro": "A network visualization of the similarity of ideas (as measured by the cosine similarity of the TF-IDF scores for each post). Groups are clusters of posts that have similar patterns of similar scores. ",
-    "title": ""
+    "title": "<img src='https://avatars1.githubusercontent.com/u/66854558?s=96&v=4'></img>"
   },
   "legend": {
     "edgeLabel": "",
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 5,
+      "minEdgeSize": 1,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
