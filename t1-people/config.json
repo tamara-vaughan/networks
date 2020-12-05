@@ -8,8 +8,8 @@
     "text": "Tamara Vaughan"
   },
   "text": {
-    "more": "A network visualization of the similarity of ideas (as measured by the cosine similarity of the TF-IDF scores for each post). Groups are clusters of posts that have similar patterns of similar scores. By Tamara Vaughan, ETEC 565C Fall 2020 UBC.",
-    "intro": "A network visualization of the similarity of ideas (as measured by the cosine similarity of the TF-IDF scores for each post). Groups are clusters of posts that have similar patterns of similar scores. ",
+    "more": "A network visualization of the structure of interactions as evidenced by posting and replying to posts. By Tamara Vaughan, ETEC 565C Fall 2020 UBC.",
+    "intro": "A network visualization of the structure of interactions as evidenced by posting and replying to posts.",
     "title": ""
   },
   "legend": {
